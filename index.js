@@ -1,6 +1,6 @@
 
 
-var array=[
+var array=[{id:"#inicio",url:"https://www.desarrollospyme.com"},
 {id:"#bfe",url:"https://www.felizemprendiendo.com"},
 {id:"#tr",url:"https://demos.desarrollospyme.com/pw-trabajos.html"},
 {id:"#nos-l",url:"#nos"},
